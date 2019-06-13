@@ -1,7 +1,7 @@
 # FlatIcons
 
 
-![Zbrush](https://user-images.githubusercontent.com/24845911/59449650-ef83ca00-8e20-11e9-80c9-ce75bafd730c.png)
+![8086](https://user-images.githubusercontent.com/24845911/59449844-5dc88c80-8e21-11e9-8fb9-4c6b9259d7d8.png)
 ![3D Coat](https://user-images.githubusercontent.com/24845911/59449651-ef83ca00-8e20-11e9-8640-8cd37399b5ad.png)
 ![3DS Max](https://user-images.githubusercontent.com/24845911/59449652-f01c6080-8e20-11e9-91e9-c614f5f11abb.png)
 ![Affinity Designer](https://user-images.githubusercontent.com/24845911/59449653-f01c6080-8e20-11e9-86ee-a110aa1a322c.png)
@@ -19,6 +19,7 @@
 ![Slack](https://user-images.githubusercontent.com/24845911/59449671-f3175100-8e20-11e9-9bab-851c98d511e3.png)
 ![TeamSpeak3](https://user-images.githubusercontent.com/24845911/59449672-f3175100-8e20-11e9-9012-cbbb97c39d47.png)
 ![Unity](https://user-images.githubusercontent.com/24845911/59449673-f3afe780-8e20-11e9-9270-56c214ff920b.png)
+![Zbrush](https://user-images.githubusercontent.com/24845911/59449650-ef83ca00-8e20-11e9-80c9-ce75bafd730c.png)
 
 
 
